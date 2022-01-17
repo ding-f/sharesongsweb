@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sharesongs_web_ar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sharesongs_web_ar</output-path>
+    <root id="archive" name="sharesongs_web_ar.war">
+      <element id="artifact" artifact-name="sharesongs_web" />
+    </root>
+  </artifact>
+</component>
